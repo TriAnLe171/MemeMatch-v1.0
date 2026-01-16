@@ -17,6 +17,7 @@ We plan to make the dataset and code publicly available upon paper acceptance (o
 ## Links
 - **MemeMatch Retrieval System (Web):** [https://hugely-climbing-moray.ngrok-free.app](https://hugely-climbing-moray.ngrok-free.app)
 - **MemeMatch Android App (Download):** [https://drive.google.com/drive/u/2/home](https://drive.google.com/file/d/1wZ1ORq2wbjOP-TfdhMHnRdoSeN1UgZvR/view?usp=sharing)
+- **Demo Video:** [Youtube video here](https://youtu.be/j9r0e2kqzwI)
 
 ## Contact
 If you have questions, please open an issue.
