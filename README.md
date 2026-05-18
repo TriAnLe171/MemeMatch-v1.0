@@ -3,8 +3,8 @@
 This repository is currently a placeholder for the **MemeMatch** dataset and source code associated with our paper.
 
 ## Status
-- Dataset: **coming soon**
-- Code: **coming soon**
+- Dataset: https://doi.org/10.34740/kaggle/dsv/14510064
+- Code: [**click here**](https://github.com/TriAnLe171/Meme_Recommendation_Project)
 
 We plan to make the dataset and code publicly available upon paper acceptance (or at camera-ready), subject to platform terms, licensing, and privacy considerations.
 
