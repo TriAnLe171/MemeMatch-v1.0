@@ -4,7 +4,7 @@ This repository is for the MemeMatch dataset, paper, and source code associated 
 ## Status
 - Dataset: https://doi.org/10.34740/kaggle/dsv/14510064
 - Code: [**click here**](https://github.com/TriAnLe171/Meme_Recommendation_Project)
-- Paper: [**click here**](https://github.com/TriAnLe171/MemeMatch-v1.0/paper.pdf)
+- Paper: [**click here**](https://github.com/TriAnLe171/MemeMatch-v1.0/blob/main/paper.pdf)
 
 Link to the paper at the official ICWSM proceedings will be updated soon.
 
