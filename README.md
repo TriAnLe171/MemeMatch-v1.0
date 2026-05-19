@@ -1,18 +1,12 @@
 # MemeMatch-v1.0
-
-This repository is currently a placeholder for the **MemeMatch** dataset and source code associated with our paper.
+This repository is for the MemeMatch dataset, paper, and source code associated with our paper.
 
 ## Status
 - Dataset: https://doi.org/10.34740/kaggle/dsv/14510064
 - Code: [**click here**](https://github.com/TriAnLe171/Meme_Recommendation_Project)
+- Paper: [**click here**](https://github.com/TriAnLe171/MemeMatch-v1.0/paper.pdf)
 
-We plan to make the dataset and code publicly available upon paper acceptance (or at camera-ready), subject to platform terms, licensing, and privacy considerations.
-
-## What will be released
-- Preprocessed metadata and derived annotations (e.g., sentiment/emotion vectors, topic labels, usage intent)
-- Data loading and preprocessing scripts
-- Model code
-- Documentation for reproduction
+Link to the paper at the official ICWSM proceedings will be updated soon.
 
 ## Links
 - **MemeMatch Retrieval System (Web):** [https://hugely-climbing-moray.ngrok-free.app](https://hugely-climbing-moray.ngrok-free.app)
