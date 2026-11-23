@@ -1,5 +1,5 @@
 # MemeMatch-v1.0
-This repository is for the MemeMatch dataset, paper, and source code associated with our paper.
+This repository hosts the MemeMatch paper and links to the associated dataset and source code.
 
 ## Status
 - Dataset: https://doi.org/10.34740/kaggle/dsv/14510064
@@ -9,9 +9,12 @@ This repository is for the MemeMatch dataset, paper, and source code associated 
 Link to the paper at the official ICWSM proceedings will be updated soon.
 
 ## Links
-- **MemeMatch Retrieval System (Web):** [https://hugely-climbing-moray.ngrok-free.app](https://hugely-climbing-moray.ngrok-free.app)
-- **MemeMatch Android App (Download):** [https://drive.google.com/drive/u/2/home](https://drive.google.com/file/d/1wZ1ORq2wbjOP-TfdhMHnRdoSeN1UgZvR/view?usp=sharing)
 - **Demo Video:** [Youtube video here](https://youtu.be/j9r0e2kqzwI)
+
+## License
+The source code is available under the [MIT License](https://github.com/TriAnLe171/Meme_Recommendation_Project/blob/main/LICENSE).
+
+For dataset licensing information, please refer to the [dataset page](https://doi.org/10.34740/kaggle/dsv/14510064).
 
 ## Contact
 If you have questions, please open an issue.
